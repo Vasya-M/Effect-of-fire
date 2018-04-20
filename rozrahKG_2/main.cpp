@@ -7,8 +7,8 @@
 #define H HF-50
 #define PAL 900
 
-#define WF 600
-#define HF 250
+#define WF 600 // widht
+#define HF 250// height
 void print(void);
 int what(int x, int y);
 void Null(int flag);
